@@ -1,4 +1,0 @@
-#Pontos Importantantes 
-
- - Comandos
- - Objetos internos
